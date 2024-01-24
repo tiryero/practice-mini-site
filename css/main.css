@@ -1,7 +1,7 @@
 /* Global styles */
 body {
   color: #333300;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Heebo', sans-serif;
   line-height: 1.5;
   background: #d7c6a2;
 }
@@ -31,20 +31,20 @@ header .content-wrapper {
 }
 
 h1 {
-  font-family: 'Play', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   /* Font-size can be adjusted for mobile so that your name fits on a single row. */
   font-size: 3rem;
   color: #333300;
 }
 
 h2 {
-  font-family: 'Play', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   font-size: 2rem;
 }
 
-p {
+/**p {
   font-size: 1.125rem;
-}
+}**/
 
 /* Main styles */
 
